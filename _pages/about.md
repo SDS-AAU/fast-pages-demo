@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Our Group Semester Project
+permalink: /project/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+# What it's about
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+here we will post about our project
